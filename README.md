@@ -9,14 +9,6 @@ The deliverables of the project can be found in products.zip. Namely, a build, a
 
 The source code is split among a number of Rust projects, most of them are small prototypes created for learning purposes. Of interest is N8, where the final build was built from.
 
-#
-
-There is related work mentioned in the documentation; These repos are relevant.
-
-https://github.com/orangutanrider/GDPAbertayUndergrad-DES311
-
-https://github.com/orangutanrider/GDPAbertayUndergrad-UnityToolsResearch
-
 ## ART405 ART410
 ART405 and ART410 were joint modules for the honours project, during my time at Abertay as an undergrad (2020-2024) (student number: 2002607). They spanned across the duration of year 4 (ART405 term 1, and ART410 term 2). Submissions were in May. Supervisors were allocated to students during ART410, my supervisor was Alexander Tarvet.
 
@@ -26,3 +18,10 @@ The official learning outcomes are as follows:
 3. Analyse and critically interpret their research and practice in the context of the subject domain and existing knowledge
 4. Effectively communicate their critical engagement with the subject and the findings of their research
 
+#
+
+There is related work mentioned in the documentation; These repos are relevant.
+
+https://github.com/orangutanrider/GDPAbertayUndergrad-DES311
+
+https://github.com/orangutanrider/GDPAbertayUndergrad-UnityToolsResearch
