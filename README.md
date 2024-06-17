@@ -5,7 +5,7 @@ A minimal RTS game, built for my honours project, using Rust and Bevy. It was my
 
 The project's aim was to investigate the tools, with particular interest in architecture and maintainability. 
 
-The deliverables of the project can be found in products.zip. Namely, a build, a personal-development-portfolio, and a tech report. Additionally, there are reports that were created throughout the project's development, notes, and documents that were required by the university. 
+The deliverables of the project can be found in releases https://github.com/orangutanrider/GDPAbertayUndergrad-Honours/releases. Namely, a build, a personal-development-portfolio, and a tech report. Additionally, there are reports that were created throughout the project's development, notes, and documents that were required by the university. 
 
 The source code is split among a number of Rust projects, most of them are small prototypes created for learning purposes. Of interest is N8, where the final build was built from.
 
